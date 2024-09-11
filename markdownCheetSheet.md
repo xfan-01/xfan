@@ -1,0 +1,4 @@
+- cd dir change directory to dir
+- cd – Go back to the previous directory
+- cd .. Go to the parent directory
+- cd Go to the user’s home directory (same as cd ~ or cd /home/user/)

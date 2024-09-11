@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Xing@xfan-01
+- 👀 I’m interested in AI for Science
+- 👨‍🎓 I’m currently in Lund University for my master programme
+- 📫 xfan_01@outlook.com
+- 😄 Pronouns: He/Him
